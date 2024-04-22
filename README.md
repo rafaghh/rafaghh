@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Rafael, and this is my special repository ✨ 
 
 ## 📫 How to reach me
 You can contact me through:
-- ✉️ [rafageymonat@gmail.com](mailto:rafageymonat@gmail.com)
+- ✉️ [rafael@rgeymonat.uy](mailto:rafael@rgeymonat.uy)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-geymonat/)
 
 
