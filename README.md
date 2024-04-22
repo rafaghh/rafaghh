@@ -1,16 +1,13 @@
-### Hi there 👋
+<img src="https://media.licdn.com/dms/image/D4D16AQHPRnLtWVmbxQ/profile-displaybackgroundimage-shrink_350_1400/0/1708308869356?e=1719446400&v=beta&t=ZNOWWz7ElRoU4P9hY1p8bAF_BKlBb-bc14xB1VL4RNc"/>
+
+# Hello! 👋
+Welcome to my GitHub profile! I'm Rafael, and this is my special repository ✨ **[rafaghh][website]** ✨. Here you'll find information about what I'm working on, what I'm learning, and how you can collaborate with me.
+
+## 📫 How to reach me
+You can contact me through:
+- ✉️ [rafageymonat@gmail.com](mailto:rafageymonat@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rafael-geymonat/)
 
 
-**rafaghh/rafaghh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[website]: https://github.rgeymonat.uy/
 
