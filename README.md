@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQHPRnLtWVmbxQ/profile-displaybackgroundimage-shrink_350_1400/0/1708308869356?e=1719446400&v=beta&t=ZNOWWz7ElRoU4P9hY1p8bAF_BKlBb-bc14xB1VL4RNc"/>
+<img src="https://media.licdn.com/dms/image/D4D16AQGZ3-QOCWs4eQ/profile-displaybackgroundimage-shrink_350_1400/0/1714358684480?e=1720051200&v=beta&t=jFHD42E1pFLh3u9INhgMWXoQbV5j8dX4X574QXI9MEw"/>
 
 # Hello! 👋
 Welcome to my GitHub profile! I'm Rafael, and this is my special repository ✨ **[rafaghh][website]** ✨. Here you'll find information about what I'm working on, what I'm learning, and how you can collaborate with me.
